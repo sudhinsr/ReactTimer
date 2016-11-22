@@ -25,6 +25,8 @@ module.exports = {
       Main: 'app/Components/Main.jsx',
       applicationStyles: 'app/Styles/app.scss',
       Navigation: 'app/Components/Navigation.jsx',
+      Timer: 'app/Components/Timer.jsx',
+      Countdown: 'app/Components/Countdown.jsx'
     },
     extensions: ['','.js','.jsx']
   },
